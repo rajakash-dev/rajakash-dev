@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rajakash-dev
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on Java code
 - 📫 How to reach me akashraj8@gmail.com
 
 <!---
